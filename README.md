@@ -8,7 +8,7 @@
 **Problem Statement:**
   AtliQ Grands, a company known for its luxury and business hotels, has been losing market share and revenue due to competition and poor management decisions. To bounce back, the managing director has decided to employ 'Business and Data Intelligence.' However, lacking an in-house data analytics team, they've chosen to hire an outside company to analyze their past data and provide valuable insights to boost revenue. During the preparation of this dashboard, I formulated a series of questions and answered each one in the presentation below. I believe that by formulating questions, we can delve deeper into insights and gain more information.
 
-** Key Metrics Learned:**
+**Key Metrics Learned:**
 - Revenue
 - RevPAR
 - ADR
